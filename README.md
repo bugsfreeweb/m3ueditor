@@ -32,7 +32,7 @@ Simply visit the [Live Demo](https://m3ueditor.netlify.app) to start managing yo
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/bugsfreeweb/m3ueditor.git
-   cd m3u
+   cd m3ueditor
    ```
 
 2. **Open `index.html` in your browser:**  

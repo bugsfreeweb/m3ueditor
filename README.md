@@ -49,12 +49,6 @@ All UI elements are queried once at the start and stored in the `elements` objec
 - Toast-style notifications appear for key actions (success, error, info).
 - Animations for show/hide.
 ---
-## File Structure
-- `index.html` — Main UI (responsive, mobile-first).
-- `styles.css` — Modern, responsive CSS with dark/light theme support.
-- `script.js` — Main application logic (see code sample above).
-- (Optionally) `README.md` — You are here!
----
 ## Usage Tips
 - **Import**: Drag-and-drop, file picker, or URL. Supported: `.m3u`, `.m3u8`, `.json`, `.txt`.
 - **Export**: Choose format and channels to include (all, online, favorites).

@@ -17,11 +17,6 @@ A modern, fully client-side web application for managing, editing, importing, ex
 - **Performance:** Lazy rendering for large channel lists, infinite scroll style loading.
 ---
 
-## Quick Start
-1. **Clone or Download** the repository.
-2. **Open `index.html` in your browser.**
-3. **No server required!** All features work offline (except URL import and health check, which require internet).
----
 ## Main Concepts
 ### State Management
 A central `state` object tracks all playlists, channels, categories, favorites, history, editing state, and UI flags (like collapsed categories or health chart visibility).
